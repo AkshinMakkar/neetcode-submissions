@@ -9,24 +9,6 @@ class Solution:
 
         return list(my_dict.values()) # finalize the return 
 
-# Notes: 
-# maybe make a dictionary and group words, and then for every next 
-        # word, we iterate through that and cross check? 
-        # sort? 
-
-"""
- brute force 
-        empty_dict = {}
-        for i in strs():
-            empty_dict = i
-            for r in strs():
-                if i == r: 
-                    i.r.join()
-"""
-
-
-
-
 
 
 
